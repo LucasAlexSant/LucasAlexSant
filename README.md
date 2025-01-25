@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color=000)](https://www.linkedin.com/in/lucas-alexandre-santana-a15277292?originalSubdomain=br)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF00&color=000)](https://www.instagram.com/lukas.santanah/)
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">My Stack </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
