@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Santana!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho interesse tanto em front-end quanto em back-end, e minhas principais linguagens são Java e JavaScript. Estudo e me atualizo constantemente na área de tecnologia, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+<p align="left">Estudante de Sistemas da Informação em busca de oportunidades na área de dados e engenharia de software, com objetivo de aplicar e expandir meus conhecimentos adquiridos em sala de aula em um ambiente profissional dinâmico. Sou proativo, comprometido com o aprendizado contínuo e possuo forte capacidade de trabalho em equipe, quero contribuir com soluções criativas e eficientes!
 
 
 <h3 align="left">Connect with me!</h3>
